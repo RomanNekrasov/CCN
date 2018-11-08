@@ -39,7 +39,6 @@ public class Practical2 {
 		// What does your population look like?
 		for (int i = 0; i < population.length; i++) {
 			System.out.println(population[i].genoToPhenotype());
-			System.out.println(population.getFitness());
 		}
 
 

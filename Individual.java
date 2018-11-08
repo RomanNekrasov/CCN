@@ -19,12 +19,10 @@ public class Individual {
 	}
 
 	public double getFitness() {
-		fitness = 0;
 		return fitness;
 	}
 
 	public void setFitness(double fitness) {
-
 		this.fitness = fitness;
 	}
 	
